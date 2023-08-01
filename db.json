@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "AirPods",
+      "image": "https://login.kg/image/cache/catalog/new/Aksessuary/Apple/Naushniki/AirPods%203/1-228x228.jpg",
+      "price": "199"
+    },
+    {
+      "id": 2,
+      "title": "Apple card",
+      "image": "https://www.apple.com/newsroom/images/product/apple-card/standard/Apple-Card-available-today-Apple-Card-082019_inline.jpg.large.jpg",
+      "price": "$299.00"
+    },
+    {
+      "id": 3,
+      "title": "Apple tv",
+      "image": "https://istore.kg/media/products/apple-tv-4k-5th-1_2xQxn0L.webp",
+      "price": "$399.00"
+    },
+    {
+      "id": 4,
+      "title": "Iphone 14",
+      "image": "https://login.kg/image/catalog/new/Phones/Apple/iPhone%2014/Plus/5.jpg",
+      "price": "$1000"
+    },
+    {
+      "id": 5,
+      "title": "Iphone 14pro",
+      "image": "https://login.kg/image/catalog/new/Phones/Apple/iPhone%2014/Plus/5.jpg",
+      "price": "$1000"
+    },
+    {
+      "id": 6
+    },
+    {
+      "title": "sdvnm",
+      "price": "6662",
+      "image": "https://telefon.kg/image/cache/catalog/Products/Phones/Apple/Iphone%20XS/Gold/10-500x500.jpg",
+      "id": 7
+    }
+  ]
+}
